@@ -1,5 +1,4 @@
-dash==2.9.1
-dash-bootstrap-components
+dash
 pandas
 numpy
 plotly
