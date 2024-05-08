@@ -1,6 +1,6 @@
-dash
+dash==2.9.1
 dash-bootstrap-components
 pandas
 numpy
 plotly
-ipywidgets
+gunicorn
